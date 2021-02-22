@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class ListOfExceptions {
-  public void combinedArrList() {
+  public void listCombined() {
     ArrayList<Object> List = new ArrayList<Object>();
     List.add("1");
     List.add("bang bang");
