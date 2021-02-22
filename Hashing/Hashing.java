@@ -4,8 +4,8 @@ import java.util.HashMap;
 public class Hashing {
   private HashMap<String, String> playlist = new HashMap<String, String>();
   public void playlist(){
-    playlist.put("Song 1", "Lyrics for song 1");
-    playlist.put("Song 2", "Lyrics for song 2");
+    playlist.put("title of song", "Lyrics for song 1");
+    playlist.put("title of song 2", "Lyrics for song 2");
   
   }
 
